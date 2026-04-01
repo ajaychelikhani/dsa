@@ -45,9 +45,5 @@ public class DataTypes {
         long value1 = 12345678;
         int value2 = (int)value1;
         System.out.println(value2);
-
-
-
-
     }
 }
